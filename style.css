@@ -18,3 +18,10 @@ body
     color: black;
     font-size: 25px;
 }
+#mainbody
+{
+    top: 50px;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+}
